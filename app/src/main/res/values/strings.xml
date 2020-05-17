@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IT资讯</string>
+    <string name="MainNews">资讯</string>
+    <string name="MainMy">我</string>
+    <string name="MainGeek">极客</string>
+    <string name="userType">邮箱/手机号</string>
+    <string name="userName">用户名</string>
+    <string name="userPass">密　码</string>
+    <string name="userPassword">密码</string>
+    <string name="login">登录</string>
+    <string name="logup">注册</string>
+    <string name="login_up">立即注册></string>
+    <string name="logupStr1">我已阅读并同意</string>
+    <string name="protocol">《使用协议》</string>
+    <string name="loginStr1">登录即代表您已阅读并同意</string>
+    <string name="favorite">我的收藏</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="logout">退出登录</string>
+    <string name="switch_account">切换账户</string>
+    <string name="repass">修改密码</string>
+    <string name="delect_user">注销用户</string>
+    <string name="version">V1.00</string>
+    <string name="ok">确认</string>
+    <string name="copyright">Copyright © 2019-2020 Jairo</string>
+    <string name="studenclass">软件3班</string>
+    <string name="weibo">微博: JairoGuo</string>
+    <string name="qq">QQ: 1762611943</string>
+    <string name="wechat">公众号: SlashGeek</string>
+    <string name="proto">
+        重要：\n
+        在安装本软件之前，请认真阅读软件使用许可协议（以下称为“本协议”）。\n
+        本软件的安装、复制及通过其他方式使用本软件的行为将视为您已同意并接受本协议各项条款的约束。
+        本软件被许可在本协议各项条款下使用。在注册之前，请确认您已经对该软件功能熟悉，以及软件对您产生的影响。
+    </string>
+
+
+</resources>
